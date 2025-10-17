@@ -8,31 +8,29 @@ This repository documents our progress as we learn step-by-step, starting from *
 ## 📂 File Structure
 
 We’ve structured the repository for clarity and scalability so that each phase is easy to follow:
-
 ```GraphQL
-project-root/
-│
-├── Phase1_Fundamentals/ # Basic Python programs
-│ ├── exercises/ # Practice exercises (loops, OOP, conditionals, etc.)
-│ ├── mini_projects/ # Small projects using fundamentals
-│ └── README.md # Documentation for Phase 1
-│
-├── Phase2_SQL_Integration/ # SQL + Python
-│ ├── database/ # SQL scripts (schema, seed data)
-│ ├── scripts/ # Python scripts with DB integration
-│ └── README.md # Documentation for Phase 2
-│
-├── Phase3_GUI/ # GUI Application
-│ ├── app/ # Main application code
-│ ├── assets/ # Images, icons, etc.
-│ └── README.md # Documentation for Phase 3
-│
-├── docs/ # Documentation files (guides, tutorials, notes)
-│ └── progress_log.md # Progress tracking
-│
-└── README.md # Main repository documentation
+  project-root/
+  │
+  ├── Phase1_Fundamentals/ # Basic Python programs
+  │ ├── exercises/ # Practice exercises (loops, OOP, conditionals, etc.)
+  │ ├── mini_projects/ # Small projects using fundamentals
+  │ └── README.md # Documentation for Phase 1
+  │
+  ├── Phase2_SQL_Integration/ # SQL + Python
+  │ ├── database/ # SQL scripts (schema, seed data)
+  │ ├── scripts/ # Python scripts with DB integration
+  │ └── README.md # Documentation for Phase 2
+  │
+  ├── Phase3_GUI/ # GUI Application
+  │ ├── app/ # Main application code
+  │ ├── assets/ # Images, icons, etc.
+  │ └── README.md # Documentation for Phase 3
+  │
+  ├── docs/ # Documentation files (guides, tutorials, notes)
+  │ └── progress_log.md # Progress tracking
+  │
+  └── README.md # Main repository documentation
 ```
-
 ---
 
 ## 📖 Learning Phases
