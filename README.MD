@@ -9,6 +9,7 @@ This repository documents our progress as we learn step-by-step, starting from *
 
 We’ve structured the repository for clarity and scalability so that each phase is easy to follow:
 
+```GraphQL
 project-root/
 │
 ├── Phase1_Fundamentals/ # Basic Python programs
@@ -30,6 +31,7 @@ project-root/
 │ └── progress_log.md # Progress tracking
 │
 └── README.md # Main repository documentation
+```
 
 ---
 
